@@ -1,0 +1,36 @@
+{
+  "name": "koa2-blog",
+  "version": "1.0.0",
+  "description": "node koa2 bootstrap 微型前端论坛",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACGN666/koa2-blog.git"
+  },
+  "author": "ACGN",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.5.7",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-mysql-session": "0.0.2",
+    "koa-router": "^7.3.0",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^4.0.2",
+    "koa-static-cache": "^5.1.1",
+    "koa-views": "^6.1.3",
+    "md5": "^2.2.1",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "koa-formidable": "^1.1.0",
+    "mocha": "^5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ACGN666/koa2-blog/issues"
+  },
+  "homepage": "https://github.com/ACGN666/koa2-blog#readme"
+}
